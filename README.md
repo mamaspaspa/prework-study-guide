@@ -1,4 +1,4 @@
-# <Your-Project-Title>
+# Prework Study Guide
 
 ## Description
 I created this study guide as my very first project on the coding bootcamp. This helped me to understand HTML, CSS, JavaScript and Git much more than I had before. I've learned a lot about how you can make JavaScript concise by using loops & how you can add 'pizzazz' and colour to a website by using CSS style sheets. Along with this, it helped me practise the Git Flow and ensuring that I properly branch, store, merge and update the relevant files carefully. I now have a functioning and nice looking HTML file containing brief descriptions of everything I learned along the way!
